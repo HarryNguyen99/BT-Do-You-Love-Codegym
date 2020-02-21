@@ -1,0 +1,23 @@
+.container {
+    width: 1000px;
+}
+
+.content {
+    margin: 100px 600px;
+    width: 400px;
+    top: 300px;
+}
+#image1 {
+    position: absolute;
+    width: 50px;
+    height: 61px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#image2 {
+    position: absolute;
+    width: 50px;
+    height: 61px;
+    margin-top: 50px;
+    margin-left: 130px;
+}
